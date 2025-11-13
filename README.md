@@ -13,5 +13,5 @@ In this lab, I established a clean organizational structure by creating new Orga
 
 ### Screenshots
 
-(screenshots/day1/01-aduc-ou-structure.png)
-(screenshots/day1/02-client-password-change.png)
+![ADUC OU Structure](screenshots/day1/01-aduc-ou-structure.png)
+![Forced Password Change](screenshots/day1/02-client-password-change.png)
